@@ -10,7 +10,8 @@ Manual testing project for OpenCart demo application. Includes FRS, test cases, 
 - Test Cases and Bug Reports
 - Screenshots of key test executions
 - Summary Reports
- Tools Used
+  
+Tools Used
 - Jira with Xray for test management
 - Excel, Word, Chrome browser
 - Manual testing on OpenCart demo: https://www.opencart.com/index.php?route=cms/demo
