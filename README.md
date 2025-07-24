@@ -1,5 +1,5 @@
 OpenCart-Manual-Testing
-Manual testing project for OpenCart demo application. Includes FRS, test cases, bug reports, traceability matrix, and test execution details.
+(Manual testing project for OpenCart demo application. Includes FRS, test cases, bug reports, traceability matrix, and test execution details).
 
  OpenCart Manual Testing Project
  This repository contains manual testing deliverables for the OpenCart demo e-commerce web application. The objective was to test core functionalities using structured manual QA processes.
